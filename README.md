@@ -27,3 +27,6 @@ http://legal.legis.com.co/document?obra=legcol&bookmark=bf131143dfc73784bb8aa809
 * Superintendencia de servicios Públicos:
 http://www.superservicios.gov.co/
 
+# Abstracción Tamara Munzner
+Pude consultar la descripción de la abstracción de acuerdo al framework de Tamara Munzner, en el documento adjunto Abstraccion_TamaraM.pdf.
+
